@@ -41,3 +41,15 @@ Analyze: Use the visual panels to monitor for traffic anomalies and investigate 
 
 ![Apache Dashboard Preview](Preview-6.png)
 
+![Apache Dashboard Preview](Preview-1.png)
+
+![Apache Dashboard Preview](Preview-2.png)
+
+![Apache Dashboard Preview](Preview-3.png)
+
+![Apache Dashboard Preview](Preview-4.png)
+
+![Apache Dashboard Preview](Preview-5.png)
+
+## 💡 Why This Project Matters
+In a modern SOC environment, the ability to rapidly parse web telemetry is critical for incident response. This project reflects my commitment to mastering the data engineering side of security—ensuring that raw logs become actionable intelligence that reduces MTTR (Mean Time to Respond).
